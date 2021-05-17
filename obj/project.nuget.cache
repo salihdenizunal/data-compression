@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4RGGQNN8e8k7ZsWuJu4zmg+zxwjFlYWksV3jh5JqFxcPO3q3ywYCM7VaCccbS3DyQ87wra2Ypu0IgGB6/4iBKw==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\data-compression\\data-compression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DenizUnal\\.nuget\\packages\\optimizedpriorityqueue\\5.1.0\\optimizedpriorityqueue.5.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
